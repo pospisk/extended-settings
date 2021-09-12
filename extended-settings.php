@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              https://pospi.sk/
- * @since             1.0.0
+ * @since             0.0.1
  * @package           Extended_Settings
  *
  * @wordpress-plugin
  * Plugin Name:       Extended Settings
  * Plugin URI:        https://github.com/pospisk/extended-settings
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Version:           0.0.1
  * Author:            pospisk
  * Author URI:        https://pospi.sk/
  * License:           GPL-2.0+
