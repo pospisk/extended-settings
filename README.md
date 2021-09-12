@@ -1,6 +1,6 @@
 # Extended Settings  
 Contributors: [pospisk](https://github.com/pospisk/)  
-Donate link: https://pospi.sk/  
+Author: https://pospi.sk/  
 Tags: settings, configuration  
 Requires at least: 3.0.1  
 Tested up to: 3.4  
